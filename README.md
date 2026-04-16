@@ -11,8 +11,9 @@ ___
 
 ## Efficiency vs. Volume
 >*Is there a correlation between high scoring volume and overall scoring efficiency among the top 100 all-time scorers?*
+
 ### The Process
-To answer this, I looked exclusively at the NBA’s VIP lounge: the top 100 all-time leading scorers. These are the players who have carried franchises on their backs. But I wanted to know how they got their points. Did they just shoot the ball every time down the court, or were they mathematical savants? I mapped their total career points against their True Shooting Percentage, a metric that combines two-pointers, three-pointers, and free throws to give a true reflection of a player's scoring efficiency.
+To answer this, I looked exclusively at the NBA’s VIP lounge: the top 100 all-time leading scorers. These are the players who have carried franchises on their backs. But I wanted to know how they got their points. Did they just shoot the ball every time down the court, or were they mathematical savants? I mapped their total career points against their True Shooting PercentSage, a metric that combines two-pointers, three-pointers, and free throws to give a true reflection of a player's scoring efficiency.
 ### The Findings
 The common myth in basketball is that if you shoot more, your efficiency drops. The "volume chucker" is a known trope. However, the data tells a breathtakingly different story about the all-time greats.
 
@@ -37,6 +38,7 @@ ___
 
 ## The Impact of the 3-Point Era
 >*How drastically does the average points per game differ between players who have recorded 3-point statistics versus those from the pre-3-point era?*
+
 ### The Process
 The three-point line was introduced to the NBA in 1979. Before that, the game was a brutal, bruising battle for the paint. To understand how this single painted line on the floor changed the sport, I split our history book in half. I separated the players who had "null" or zero data in the 3-point attempt column (the pioneers of the 50s, 60s, and 70s) from the players who actively recorded 3-point stats. I then calculated the average points per game across both eras.
 ### The Findings
@@ -55,6 +57,7 @@ ___
 
 ## Playmaking vs. Scoring
 >*Among the top 500 players in total assists, what is the ratio of Assists to Turnovers, and does elite playmaking negatively correlate with elite scoring?*
+
 ### The Process
 Point guards are the conductors of the NBA orchestra. But a good pass is only as valuable as the possession itself. To measure a playmaker's true worth, I looked at the top 500 assist leaders in NBA history and calculated their Assist-to-Turnover ratio (how many good passes they make for every mistake). Then, I cross-referenced this ratio with their total career points to see if the ultimate passers had to sacrifice their own scoring to get their teammates involved.
 ### The Findings
@@ -75,6 +78,7 @@ ___
 
 ## Free Throw Reliance
 >*For the top 50 all-time leading scorers, what percentage of their total career points comes directly from free throws, and who relies on the charity stripe the most?*
+
 ### The Process
 We celebrate the slam dunks and the deep threes, but championships are often won when the clock is stopped and a player is standing alone 15 feet from the basket. I wanted to know who built their legendary point totals at the charity stripe. Taking our top 50 all-time scorers, I took their total Free Throws Made and divided it by their total Points to find the percentage of their career scoring that came entirely from free throws.
 ### The Findings
